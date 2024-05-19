@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493027164150",
+    "project_id": "al-quran-2d802",
+    "storage_bucket": "al-quran-2d802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493027164150:android:bb8da529fc3fbf912951d7",
+        "android_client_info": {
+          "package_name": "com.example.quran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPFQ6Tt4TQu04bU5V4kDVIH6R3R_IlH0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
